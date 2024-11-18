@@ -15,9 +15,6 @@ Passionate Frontend Engineer with a knack for creating intuitive and visually ap
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yogimahaputra&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yogimahaputra&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
 
